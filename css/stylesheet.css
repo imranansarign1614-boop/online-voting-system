@@ -1,0 +1,51 @@
+body{
+    background-color: #b2bec3;
+}
+#headersection {
+    padding: 4px;
+}
+#headersection h1 {
+    font-family: 'Arial', sans-serif;
+}
+input {
+    padding: 10px;
+    border-radius: 5px;
+}
+#dropbox {
+    padding: 10px;
+    border-radius: 5px;
+    width: 190px;
+    border: 1px solid black;
+}
+#loginbtn {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #1e90ff;
+    color: white;
+    font-size: 15px;
+}
+#registerbtn {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #1e90ff;
+    color: white;
+    font-size: 15px;
+}
+#backButton{
+    padding: 10px  20px;
+    border-radius: 5px;
+    background-color: #1e90ff;
+    color: white;
+    font-size: 15px;
+    float: left;
+    margin: 10px;
+}
+#logoutButton{
+    padding: 10px  20px;
+    border-radius: 5px;
+    background-color: #1e90ff;
+    color: white;
+    font-size: 15px;
+    float: right;
+    margin: 10px;
+}
